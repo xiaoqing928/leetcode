@@ -4,6 +4,14 @@
 # @File    : 加括号.py
 # @Software: PyCharm Community Edition
 
+'''
+    从整体上去考虑
+    左边有多少种情况，右边有多少种情况，
+    左边和右边再做一个排列组合
+    其实整个过程类似于归并排序
+    要多思考多想！！
+'''
+
 class Solution(object):
     def diffWaysToCompute(self, input):
         """
