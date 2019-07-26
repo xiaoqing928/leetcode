@@ -18,5 +18,6 @@ class Solution(object):
         """
         newhead = None
         while head:
+            # 反转 移位 就ok
             head.next, newhead, head = newhead, head, head.next
         return newhead
