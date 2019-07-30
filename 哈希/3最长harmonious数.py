@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/7/29 11:28
 # @Author  : xiaoqing
-# @File    : 最长harmonious数.py
+# @File    : 3最长harmonious数.py
 # @Software: PyCharm Community Edition
 
 class Solution(object):
